@@ -1,0 +1,10 @@
+#splash {
+  margin-top: 200px;
+}
+
+#chat {
+  display: none;
+}
+#chatbox {
+  height: 400px;
+}
